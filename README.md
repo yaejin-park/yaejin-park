@@ -1,12 +1,5 @@
 
-<h3>👩‍💻 서비스를 이해하는 개발자</h3>
-<div> 
-  • 한양대학교 문화콘텐츠학과<br>
-  • 엔라이즈 마케터&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  • 비트캠프 6개월 웹개발&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  • SSAFY JAVA전공자반&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-<br>
+<h3>👩‍💻YAEJIN - PARK</h3>
 
 <h3>🛠 기술 스택 🛠</h3>
 
@@ -21,6 +14,13 @@
 <img src="http://mazandi.herokuapp.com/api?handle=pyjin805&theme=warm"/>
 
 <!--
+<div> 
+  • 한양대학교 문화콘텐츠학과<br>
+  • 엔라이즈 마케터&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  • 비트캠프 6개월 웹개발&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  • SSAFY JAVA전공자반&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)
 
