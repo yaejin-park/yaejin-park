@@ -20,11 +20,11 @@
 
 <div>
  <h3>🚩이력</h3>
- ›  16.07-21.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>HANYANG(ERICA)_문화콘텐츠학과</b><br>
- ›  19.02-19.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>FH JOANNEUM_Industrial Management</b><br>
- ›  20.10-21.04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Nrise_콘텐츠마케터</b><br>
- ›  21.07-21.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>BITCAMP_Framework 전문 개발자 양성과정</b><br>
- ›  22.01-22.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>SSAFY_JAVA전공자반</b><br>
+ ›  <span">16.07-21.12</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HANYANG(ERICA)_문화콘텐츠학과<br>
+ ›  19.02-19.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FH JOANNEUM_Industrial Management<br>
+ ›  20.10-21.04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nrise_콘텐츠마케터<br>
+ ›  21.07-21.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BITCAMP_Framework 전문 개발자 양성과정<br>
+ ›  22.01-22.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SSAFY_JAVA전공자반<br>
 </div>
 
 <!-- 
