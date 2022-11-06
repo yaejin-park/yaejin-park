@@ -1,7 +1,7 @@
 
 <h1>👩‍💻YAEJIN_PARK</h1>
 
-### 🎨 포트폴리오 Link [:link:](https://drive.google.com/file/d/1trrQQs3sHfHVWRT6X-wMhiBZXEgMbxw3/view?usp=sharing)
+### 🎨 포트폴리오 Link [:link:](https://drive.google.com/file/d/1KXChGS0vYCR7aMdM_EhVxEq96qwBdzus/view?usp=share_link)
  <br>
 <h3>🛠 기술 스택</h3>
 
