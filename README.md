@@ -25,6 +25,7 @@
  ›  20.10-21.04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nrise_콘텐츠마케터<br>
  ›  21.07-21.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BITCAMP_Framework 전문 개발자 양성과정<br>
  ›  22.01-22.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SSAFY_JAVA전공자반<br>
+ ›  23.01-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;현대오토에버 CCS제어팀<br>
 </div>
 
 <!-- 
